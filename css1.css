@@ -1,0 +1,110 @@
+p.temp{
+  color: lightgray;
+  font-family: monospace;
+  font-size: 20px;
+}
+p.friends{
+  color: lightblue;
+  font-size: 18px;
+}
+
+
+h1{
+  color: black;
+  text-align: center;
+  font-size: 350%;
+  border: 1px solid white;
+  background-color: lightgray;
+}
+h2{
+  color: lightblue;
+  text-align: center;
+}
+body{
+  background-image: url(img4.jpg);
+  background-position: left-botto;
+}
+img.frlogo{
+  background-color: lightgray;
+  opacity: 0.5;
+  border-radius: 20px;
+}
+img.frlogo:hover{
+  opacity: 1;
+}
+div.pwdr{
+  width: 300px;
+  height: 200px;
+  background-color: powderblue;
+  margin-left: 35%;
+  opacity: 0.5;
+  border-radius: 30px;
+}
+div.pwdr:hover{
+  opacity: 1;
+}
+h1.pwdrh{
+  color: darkblue;
+  border-radius: 20px;
+}
+h2.name{
+  font-family: cursive;
+  font-color: black;
+  font-size: 80px;
+  letter-spacing: -13px;
+  font-variant: small-caps;
+}
+div.box{
+  background-color: black;
+  background-image: url(img6.jpg);
+  opacity: 0.5;
+  width: auto;
+  height: 400px;
+}
+div.box:hover{
+  opacity: 1;
+}
+div.link{
+  text-align: center;
+}
+span{
+    display: block;
+    background-color: lawngreen;
+    opacity: 0.3;
+}
+a{
+    display: block;
+    text-align: center;
+    font-size: 45px;
+    color: crimson;
+}
+a:hover{
+    opacity: 1;
+    color: blueviolet;
+}
+iframe{
+ margin-left: 40%;
+    width: auto;
+    position: absolute;
+    top: 400px;
+    float: right;
+    z-index: -1;
+}
+   table{
+    background-image:
+    url(img3.jpg);
+    background-position: 100% 18%;
+    width: 100%;
+    opacity: 0.5
+  }
+  table:hover{
+    opacity: 1;
+  }
+  th,td{
+    border-bottom: 1px solid black;
+    padding: 5px;
+  }
+  tr:hover{
+    background-color: lightgrey;
+    opacity: 0.5;
+  }
